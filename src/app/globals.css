@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+
+.shadcn-select-trigger {
+  background-color: white !important;
+}
+
+.shadcn-select-content {
+  background-color: white !important;
+}
+
+.shadcn-select-item {
+  background-color: white !important;
+  color: black !important;
+}
